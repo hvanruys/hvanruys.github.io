@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+
+  {% include sidebar.html %}
+
+    <div class="masthead">
+      <div class="container">
+        <h1 class="masthead-title">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="/" title="Home">{{ site.title }}</a>
+          <p><small>{{ site.tagline }}</small></p>
+        </h1>
+      </div>
+    </div>
+
+  <div class="content container">
+    {{ content }}
+  </div>
+
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+avatar: https://avatars.githubusercontent.com/hvanruys
+
+# Setup
+title:            EUMETCastView
+tagline:          'An EUMETCAST Viewer'
+description:      'A viewer for the EUMETCast transmissions.'
+url:              http://hvanruys.github.io
+baseurl:          /
+
+author:
+  name:           'Hugo Van Ruyskensvelde'
+  url:
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/hvanruys/EUMETCastView

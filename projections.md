@@ -37,6 +37,10 @@ The projection was made with center coordinate values equal to my Home coordinat
 
 ![_config.yml](/images/Projection_MET-10_GVP.jpg)
 
+A true color image of two satellite tracks of the SUOMI-NPP (VIIRS) on a General Vertical Projection.
+
+![_config.yml](/images/VIIRS_projection_gvp.jpg)
+
 **The Sterographic projection of a Meteosat-10 image**
 
 An Equatorial Stereographic projection with Latitude and Longitude equal to zero.

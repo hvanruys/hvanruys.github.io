@@ -41,4 +41,7 @@ The receiver system (where the **Tellicast** and **EUMETCastWatcher** software i
 You need to download and install the following software :
 
 - the <a href="https://www.hdfgroup.org/HDF5/release/obtain5.html">HDF5 library</a>. Choose the appropriate library for your O.S.
-- the Qt 5.4 runtime libraries.
+- the Qt 5.5 runtime libraries.
+
+A working OpenGl environment ( minimum OpenGl 4.3 ) is also required.
+

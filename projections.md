@@ -41,6 +41,10 @@ A true color image of two satellite tracks of the SUOMI-NPP (VIIRS) on a General
 
 ![_config.yml](/images/VIIRS_projection_gvp.jpg)
 
+A GV Projection of three satellite tracks of Metop-B superimposed on a GOES-15 visual image. The image shows three major hurricanes (Kilo, Ignacio and Jimena) in the Eastern Pacific on Aug. 29, 2015.
+
+![_config.yml](/images/Kilo_Ignacio_Jimena_20150829.jpg)
+
 **The Sterographic projection of a Meteosat-10 image**
 
 An Equatorial Stereographic projection with Latitude and Longitude equal to zero.

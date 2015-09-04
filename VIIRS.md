@@ -18,6 +18,12 @@ When selecting 'True Colors' the program will select Band 3, 4 and 5. After clic
 
 ![_config.yml](/images/Screenshot_VIIRS_3.jpg)
 
+After a GV Projection, the VIIRS image can be viewed without the "pixel-trim" pixels. 
+
+Spain in 'Natural colors'.
+
 ![_config.yml](/images/spain201506211230_nat.jpg)
+
+Same image but in 'True colors'.
 
 ![_config.yml](/images/spain201506211230_true.jpg)

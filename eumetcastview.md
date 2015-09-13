@@ -53,6 +53,8 @@ After loading the satellite segments information, an overview of the segments ar
 - Meteosat 10
 - Meteosat 9
 - Meteosat 7
+- FengYun 2E
+- FengYun 2G
 - GOES 13
 - GOES 15
 - MTSAT2

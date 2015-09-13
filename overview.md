@@ -7,7 +7,7 @@ The Open Source program **EUMETCastView** allows you to view and manipulate
 
 - AVHRR images from NOAA-19, Metop-A and Metop-B.
 - VIIRS images from SUOMI-NPP.
-- and HRIT/LRIT images from Meteosat-10, Meteosat-9, Meteosat-7, GOES-13, GOES-15 and MTSAT-2.
+- and HRIT/LRIT images from Meteosat-10, Meteosat-9, Meteosat-7, FengYun 2E, FengYun 2G, GOES-13, GOES-15 and MTSAT-2.
 
 After creating the image you can use 3 kinds of projections for redisplaying the image
 

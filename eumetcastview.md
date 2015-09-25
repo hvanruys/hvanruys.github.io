@@ -82,7 +82,7 @@ A more straightforward method for selecting segments is possible in the '3D Glob
 
 ##The 3D Globe page
 
-The 3D globe makes it easier to select the segments of interest. By right clicking <strong>in</strong> the boundery of the segment you can select or deselect this segment. By moving the vertical scroll bar, the segment tracks will move over the globe. Again, the button 'Make Image' will render the satellite image in the image page. When the button 'Texture on' in the toolbox page is set, the image will also be rendered to the texture of the 3D globe. You can toggle this button from 'Texture On' to 'Texture Off'.
+The 3D globe makes it easier to select the segments of interest. By right clicking <strong>in</strong> the boundery of the segment you can select or deselect this segment. By moving the vertical scroll bar on the right of the 3D globe, the segment tracks will move over the globe in function of time. Again, the button 'Make Image' will render the satellite image in the image page. When the button 'Texture on' in the toolbox page is set, the image will also be rendered to the texture of the 3D globe. You can toggle this button from 'Texture On' to 'Texture Off'.
 
 ![placeholder](/images/Screenshot_eumetcastview_globe.jpg)
 

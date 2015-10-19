@@ -75,7 +75,7 @@ The bilinear interpolation fills up those 'holes' in the projection image. It ca
 
 ![placeholder](/images/belgium_with_interpolation.jpg)
 
-By using a bilinear interpolation can you do not 'add' information to the image, but you are able to view 'hidden' information by blowing up the details you want to see.
+By using a bilinear interpolation you do not 'add' information to the image, but you are able to view 'hidden' information by blowing up the details you want to see.
 
 
 

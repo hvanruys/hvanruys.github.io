@@ -63,11 +63,11 @@ In this screenshot I kept the canvas size to 3200x2400, I 'zoomed' out to 'Fit w
 <p>The measure of how closely lines can be resolved in an image is called spatial resolution, and it depends on properties of the system creating the image, not just the pixel resolution in pixels per inch (ppi). For practical purposes the clarity of the image is decided by its spatial resolution, not the number of pixels in an image. In effect, spatial resolution refers to the number of independent pixel values per unit length.</p>
 </div>
 
-We can asume that all the pixels in a satellite image are all independant from each other, hence the 'pixel-trim' values in VIIRS images. The pixels that are not independant from each other are filtered out. This will not be entirely the case for Metop, but for the sake of this discussion we will asume that.
+We can asume that all the pixels in a satellite image are all independent from each other, hence the 'pixel-trim' values in VIIRS images. The pixels that are not independant from each other are filtered out. This will not be entirely the case for Metop, but for the sake of this discussion we will asume that.
 
 ![placeholder](/images/belgium_without_interpolation.jpg)
 
-To illustrate the relation between canvas size and the spatial resolution of an satellite image, I created a Vertical projection image of an AVHRR satellite image ( originally it was 1600x1200 ) with canvas size 1600x1200, scale = 0.07 and with the smoothing off. You can see here the individual ( and independant ) pixels in the image and the 'holes' were no image data is available. If you change the canvas size to, for example 800x600 pixels, you would not see the individual pixels and there are less 'holes' in the image.
+To illustrate the relation between canvas size and the spatial resolution of an satellite image, I created a Vertical projection image of an AVHRR satellite image ( originally it was 1600x1200 ) with canvas size 1600x1200, scale = 0.07 and with the smoothing off. You can see here the individual ( and independent ) pixels in the image and the 'holes' were no image data is available. If you change the canvas size to, for example 800x600 pixels, you would not see the individual pixels and there are less 'holes' in the image.
 
 ![placeholder](/images/belgium_without_interpolation1.jpg)
 

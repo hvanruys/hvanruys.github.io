@@ -26,7 +26,7 @@ title: EUMETCastView introduction
 
 When you launch EUMETCastView, you should get a screen that looks like this:
 
-![placeholder](/images/Screenshot_eumetcastview_ephem.jpg)
+![_config.yml](/images/Screenshot_eumetcastview_ephem.jpg)
 
 The screen is divided in three parts :
 
@@ -63,7 +63,7 @@ For GOES-13, GOES-15 and MTSAT2 there are segments transmitted in 'Data Channel 
 
 By clicking on an entry in one of the tabs you select the image by date and time to compile. The required channel is selected in the Toolbox.  
 
-![placeholder](/images/Screenshot_eumetcastview_geostationary.jpg)
+![_config.yml](/images/Screenshot_eumetcastview_geostationary.jpg)
 
 ##The Cylindrical Equidistant page
 
@@ -77,20 +77,20 @@ In this page all the <strong>real time</strong> positions of the selected satell
 To make a combined picture of the segments you right-click on the start of the segments ( yellow points along the red segment tracks ) to select them. The button 'Make Image' will render a combined satellite image. By moving the vertical scroll bar, the segment tracks will move over the cylindrical equidistant picture.
 A more straightforward method for selecting segments is possible in the '3D Globe' page.
 
-![placeholder](/images/Screenshot_eumetcastview_cylindrical.jpg)
+![_config.yml](/images/Screenshot_eumetcastview_cylindrical.jpg)
 
 
 ##The 3D Globe page
 
 The 3D globe makes it easier to select the segments of interest. By right clicking <strong>in</strong> the boundery of the segment you can select or deselect this segment. By moving the vertical scroll bar on the right of the 3D globe, the segment tracks will move over the globe in function of time. Again, the button 'Make Image' will render the satellite image in the image page. When the button 'Texture on' in the toolbox page is set, the image will also be rendered to the texture of the 3D globe. You can toggle this button from 'Texture On' to 'Texture Off'.
 
-![placeholder](/images/Screenshot_eumetcastview_globe.jpg)
+![_config.yml](/images/Screenshot_eumetcastview_globe.jpg)
 
 ##The image page
 
 After rendering the image you can view it in the Image page.
 
-![placeholder](/images/Screenshot_eumetcastview_image.jpg)
+![_config.yml](/images/Screenshot_eumetcastview_image.jpg)
 
 ##The Toolbox page
 

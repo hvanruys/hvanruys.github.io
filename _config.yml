@@ -8,7 +8,7 @@ title:            EUMETCastView
 tagline:          'An EUMETCAST Viewer'
 description:      'A viewer for the EUMETCast transmissions.'
 url:              http://hvanruys.github.io
-baseurl:          /
+#baseurl:          /
 
 author:
   name:           'Hugo Van Ruyskensvelde'

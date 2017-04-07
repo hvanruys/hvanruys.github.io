@@ -7,7 +7,10 @@ The Open Source program **EUMETCastView** allows you to view and manipulate
 
 - AVHRR images from NOAA-19, Metop-A and Metop-B.
 - VIIRS images from SUOMI-NPP.
-- and HRIT/LRIT images from Meteosat-10, Meteosat-9, Meteosat-7, FengYun 2E, FengYun 2G, GOES-13, GOES-15 and MTSAT-2.
+- OLCI EFR and ERR images from Sentinel-3A
+- and HRIT/LRIT images from Meteosat-10, Meteosat-9, Meteosat-7, FengYun 2E, FengYun 2G, GOES-13, GOES-15 and Himawari-8.
+ 
+Examples of images received with EUMETCastView can be found on the <a href="https://www.flickr.com/photos/137270544@N02/">flicr</a> website.
 
 After creating the image you can use 3 kinds of projections for redisplaying the image
 
@@ -27,21 +30,22 @@ The receiver PC runs the following software
 
 The PC for viewing and manipulating the images runs the **EUMETCastView** software.
 
-##System requirements
+**System requirements**
 
-The programs are written in C++ with Qt 5.5. It is possible to compile for both Windows and Linux.
-The receiver system (where the **Tellicast** and **EUMETCastWatcher** software is installed) can be a modern 32 or 64 bit Linux or Windows PC, but the system that runs **EUMETCastView** definitely needs a 64 bit system with a minimum of 6 GByte of RAM.
+The programs are written in C++ with Qt 5.7. It is possible to compile for both Windows and Linux.
+The receiver system (where the **Tellicast** and **EUMETCastWatcher** software is installed) can be a modern 32 or 64 bit Linux or Windows PC, but the system that runs **EUMETCastView** definitely needs a 64 bit system with a minimum of 6 GByte of RAM. For OLCI images 12 GByte RAM is needed.
 
-##Shoreline database
+**Shoreline database**
 
 **EUMETCastView** uses a  <a href="http://www.soest.hawaii.edu/pwessel/gshhg/">geographic database</a> for the coastline overlays that is displayed in the 3D Globe and the various projections. You need to download the **native binary files** of the database from <a href="http://www.soest.hawaii.edu/pwessel/gshhg/gshhg-bin-2.3.4.zip">here</a>.
 
-##Software dependencies
+**Software dependencies**
 
 You need to download and install the following software :
 
 - the <a href="https://www.hdfgroup.org/HDF5/release/obtain5.html">HDF5 library</a>. Choose the appropriate library for your O.S.
-- the Qt 5.5 runtime libraries.
+- the <a href="http://www.unidata.ucar.edu/software/netcdf/">netCDF library</a>. Choose the appropriate library for your O.S.
+- the Qt 5.7 runtime libraries.
 
-A working OpenGL (>= 4.3) environment is also required.
+A working OpenGL (>= 3.2) environment is also required.
 

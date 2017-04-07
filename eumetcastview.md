@@ -3,6 +3,26 @@ layout: page
 title: EUMETCastView introduction
 ---
 
+<head>
+<style>
+	.TextWrapRight {
+		float: right;
+		margin: 10px;
+		width: 200px;
+		height: auto;
+		}
+	.TextWrapLeft {
+		float: left;
+		margin: 10px;
+		width: 200px;
+		height: auto;
+		}
+	.text_line {
+		clear: both;
+	        margin-bottom: 2px;
+}
+</style>
+</head>
 
 When you launch EUMETCastView, you should get a screen that looks like this:
 

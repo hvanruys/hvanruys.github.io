@@ -26,7 +26,7 @@ title: EUMETCastView introduction
 
 When you launch EUMETCastView, you should get a screen that looks like this:
 
-![_config.yml](/images/Screenshot_eumetcastview_ephem.jpg)
+![_config.yml](images/Screenshot_eumetcastview_ephem.jpg)
 
 The screen is divided in three parts :
 

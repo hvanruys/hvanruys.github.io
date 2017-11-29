@@ -3,7 +3,7 @@ layout: page
 title: Geostationary Satellites
 ---
 
-HRIT/LRIT images are received from Meteosat-10, Meteosat-9, Meteosat-7, FengYun 2E/2G, GOES-13, GOES-15 and Himawari-8.
+HRIT/LRIT images are received from Meteosat-10, Meteosat-9, Meteosat-8, Electro L2, FengYun 2E/2G, GOES-15, GOES-16 and Himawari-8.
 
 **Meteosat-10**
 

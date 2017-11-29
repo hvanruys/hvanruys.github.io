@@ -8,7 +8,7 @@ The Open Source program **EUMETCastView** allows you to view and manipulate
 - AVHRR images from NOAA-19, Metop-A and Metop-B.
 - VIIRS images from SUOMI-NPP.
 - OLCI EFR and ERR images from Sentinel-3A
-- and HRIT/LRIT images from Meteosat-10, Meteosat-9, Meteosat-7, FengYun 2E, FengYun 2G, GOES-13, GOES-15 and Himawari-8.
+- and HRIT/LRIT images from Meteosat-10, Meteosat-9, Meteosat-8, Electro L2, FengYun 2E, FengYun 2G, GOES-15, GOES-16 and Himawari-8.
  
 Examples of images received with EUMETCastView can be found on the <a href="https://www.flickr.com/photos/137270544@N02/">flicr</a> website.
 
@@ -32,7 +32,7 @@ The PC for viewing and manipulating the images runs the **EUMETCastView** softwa
 
 **System requirements**
 
-The programs are written in C++ with Qt 5.7. It is possible to compile for both Windows and Linux.
+The programs are written in C++ with Qt 5.5 and it is possible to compile them for both Windows and Linux.
 The receiver system (where the **Tellicast** and **EUMETCastWatcher** software is installed) can be a modern 32 or 64 bit Linux or Windows PC, but the system that runs **EUMETCastView** definitely needs a 64 bit system with a minimum of 6 GByte of RAM. For OLCI images 12 GByte RAM is needed.
 
 **Shoreline database**
@@ -41,11 +41,6 @@ The receiver system (where the **Tellicast** and **EUMETCastWatcher** software i
 
 **Software dependencies**
 
-You need to download and install the following software :
-
-- the <a href="https://www.hdfgroup.org/HDF5/release/obtain5.html">HDF5 library</a>. Choose the appropriate library for your O.S.
-- the <a href="http://www.unidata.ucar.edu/software/netcdf/">netCDF library</a>. Choose the appropriate library for your O.S.
-- the Qt 5.7 runtime libraries.
-
+The program uses the <a href="https://www.hdfgroup.org/HDF5/release/obtain5.html">HDF5</a> and <a href="http://www.unidata.ucar.edu/software/netcdf/">netCDF</a> libraries for decoding the images. The necessary dll's are included in the zip file that you can download from <a href="https://github.com/hvanruys/EUMETCastView/releases">github</a>.
 A working OpenGL (>= 3.2) environment is also required.
 

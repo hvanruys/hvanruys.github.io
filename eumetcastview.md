@@ -28,7 +28,7 @@ When you launch EUMETCastView, you should get a screen that looks like this:
 
 ![_config.yml](/images/Screenshot_eumetcastview_ephem.jpg)
 
-The screen is divided in three parts :
+The screen is divided into three parts :
 
 - the dockable toolbar ( can be moved left, right, up and down)
 - the Toolbox
@@ -52,14 +52,13 @@ After loading the satellite segments information, an overview of the segments ar
 
 - Meteosat 10
 - Meteosat 9
-- Meteosat 7
+- Meteosat 8
+- Electro L2
 - FengYun 2E
 - FengYun 2G
-- GOES 13
 - GOES 15
-- MTSAT2
-
-For GOES-13, GOES-15 and MTSAT2 there are segments transmitted in 'Data Channel 3' and 'Data Channel 4'. Those segments are displayed in different tabs.
+- GOES 16
+- Himawari 8
 
 By clicking on an entry in one of the tabs you select the image by date and time to compile. The required channel is selected in the Toolbox.
 
